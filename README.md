@@ -1,15 +1,14 @@
-# README
+# CSGO Demo Downloader
 
-## About
+CSGO Demo 下载器
 
-This is the official Wails Vue template.
+## 使用方法
 
-## Live Development
+- 打开steam
+- 关闭csgo
+- 复制游戏 gotv demo 的分享链接，粘贴到文本框中，点击解析按钮
+- 等待几秒，会打开浏览器并下载
 
-To run in live development mode, run `wails dev` in the project directory. In another terminal, go into the `frontend`
-directory and run `npm run dev`. The frontend dev server will run on http://localhost:34115. Connect to this in your
-browser and connect to your application.
+## 下载
 
-## Building
-
-To build a redistributable, production mode package, use `wails build`.
+https://github.com/One-Studio/csgo-demo-downloader/releases
