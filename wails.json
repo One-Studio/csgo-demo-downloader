@@ -1,0 +1,19 @@
+{
+  "name": "csgo-demo-downloader",
+  "outputfilename": "csgo-demo-downloader",
+  "frontend:install": "yarn install",
+  "frontend:build": "yarn build",
+  "frontend:dev:watcher": "yarn dev",
+  "frontend:dev:serverUrl": "http://localhost:3000",
+  "Info": {
+    "companyName": "One-Studio",
+    "productName": "CSGO Demo 下载器",
+    "productVersion": "0.0.1",
+    "copyright": "Copyright © 2022 by One Studio",
+    "comments": "Built using Wails (https://wails.app)"
+  },
+  "author": {
+    "name": "Purp1e",
+    "email": "438518244@qq.com"
+  }
+}
