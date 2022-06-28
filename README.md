@@ -12,3 +12,7 @@ CSGO Demo 下载器
 ## 下载
 
 https://github.com/One-Studio/csgo-demo-downloader/releases
+
+## 效果预览
+
+![overview](https://user-images.githubusercontent.com/47248616/176184883-4f575917-aa72-4297-ae78-2b2a74b24ce9.png)
